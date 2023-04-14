@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesús Gómez</h1>
-<h3 align="center">A fullstack developer</h3>
+<h3 align="center">Fullstack Developer</h3>
 
 - 🔭 I’m currently working on **An online chat and a virtual assistant**
 
