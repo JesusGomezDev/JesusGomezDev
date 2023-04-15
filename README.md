@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, Pytorch, Django, Javascript, React, Typescript**
 
-- 📫 How to reach me **gomezhdz_jss@hotmail.com**
+- 📫 How to reach me **contacto@jesusgomezdev.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
