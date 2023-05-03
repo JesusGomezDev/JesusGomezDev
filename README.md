@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jesús Gómez</h1>
 <h3 align="center">Fullstack Developer</h3>
 
-- 🔭 I’m currently working on **An online chat and a virtual assistant**
+- 🔭 I’m currently working on **A taxi mobile app**
 
-- 🌱 I’m currently learning **Tensorflow, Unit test**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Python, Pytorch, Django, Javascript, React, Typescript**
 
