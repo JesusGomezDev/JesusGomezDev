@@ -36,7 +36,7 @@
 </p>
 <h3 align="center">Frontend:</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,sass" />
 </p>
 <h3 align="center">Technologies:</h3>
 <p align="center">
