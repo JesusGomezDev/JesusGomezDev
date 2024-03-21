@@ -32,11 +32,11 @@
 <h2 align="center">Languages and Tools:</h2>
 <h3 align="center">Backend:</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,nodejs,cs,mysql,postgres,mongo,django,flask,pytorch,express,nestjs,dotnet" />
+<img src="https://skillicons.dev/icons?i=python,nodejs,cs,golang,mysql,postgres,mongo,django,flask,pytorch,express,nestjs,dotnet" />
 </p>
 <h3 align="center">Frontend:</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,sass" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,angular,sass" />
 </p>
 <h3 align="center">Technologies:</h3>
 <p align="center">
