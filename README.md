@@ -6,9 +6,9 @@
 
 <div align="center">
 
-🔭 I’m currently working on **A taxi mobile app**
+🔭 I’m currently working on **A financial mobile app**
 
-🌱 I’m currently learning **Flutter**
+🌱 I’m currently learning **Astro** and **Redux**
 
 💬 Ask me about **Python, Pytorch, Django, Javascript, React, Typescript**
 
