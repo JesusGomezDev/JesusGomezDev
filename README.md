@@ -8,7 +8,7 @@
 
 🔭 I’m currently working on **A financial mobile app**
 
-🌱 I’m currently learning **Astro** and **Redux**
+🌱 I’m currently learning **Redux**
 
 💬 Ask me about **Python, Pytorch, Django, Javascript, React, Typescript**
 
@@ -36,7 +36,7 @@
 </p>
 <h3 align="center">Frontend:</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,dart,react,nextjs,tailwind,angular,sass,flutter" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,dart,astro,tailwind,sass,react,nextjs,angular,flutter" />
 </p>
 <h3 align="center">Technologies:</h3>
 <p align="center">
