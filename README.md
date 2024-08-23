@@ -18,14 +18,20 @@
 </div>
 
 <div align="center">
+  <a href="mailto:jesusgomezdev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-b2b1a8?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
   <a href="mailto:contacto@jesusgomezdev.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Mail-334f8d?style=for-the-badge&logo=maildotru&logoColor=blue" />
   </a>
   <a href="https://linkedin.com/in/jesusgomezdev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://jesusgomezdev.com" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+     <img src="https://img.shields.io/badge/Portfolio-1e1e2e?style=for-the-badge&logo=codementor&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://jesusgomez.dev" target="_blank">
+     <img src="https://img.shields.io/badge/Curriculum-191a1a?style=for-the-badge&logo=readme&logoColor=white" target="_blank" />
   </a>
 </div>
 
