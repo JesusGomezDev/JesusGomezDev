@@ -32,7 +32,7 @@
 <h2 align="center">Languages and Tools:</h2>
 <h3 align="center">Backend:</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,nodejs,cs,golang,mysql,postgres,mongo,django,flask,pytorch,express,nestjs,dotnet" />
+<img src="https://skillicons.dev/icons?i=python,nodejs,cs,golang,mysql,postgres,mongo,firebase,supabase,django,flask,pytorch,express,nestjs,dotnet" />
 </p>
 <h3 align="center">Frontend:</h3>
 <p align="center">
@@ -40,7 +40,7 @@
 </p>
 <h3 align="center">Technologies:</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,git" />
+<img src="https://skillicons.dev/icons?i=docker,terraform,git" />
 </p>
 
 
