@@ -6,13 +6,11 @@
 
 <div align="center">
 
-🔭 I’m currently working on **A financial mobile app**
+I am a fullstack developer with over three years of experience in web and mobile application development, leading projects from concept to deployment. My focus is on creating efficient, scalable, and high-impact solutions using modern technologies on both the frontend and backend.
 
-🌱 I’m currently learning **Redux**
+Throughout my career, I have had the opportunity to work as a freelancer, lead development teams, and collaborate with innovative companies. This has allowed me to gain strong technical skills and a strategic vision for delivering successful projects.
 
-💬 Ask me about **Python, Pytorch, Django, Javascript, React, Typescript**
-
-📫 How to reach me **contacto@jesusgomezdev.com**
+My passion for technology drives me to keep learning and taking on new challenges, always striving to improve the user experience and optimize development processes.
 
 [![GitHub followers](https://img.shields.io/github/followers/jesusgomezdev?style=social)](https://github.com/JesusGomezDev)
 </div>
